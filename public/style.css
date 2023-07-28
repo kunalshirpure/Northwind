@@ -1,0 +1,62 @@
+  table {  
+   background-color:#01366A !important;
+   /*background-color:#f4f4f4 !important;*/
+  }  
+  
+  table, th, {  
+    border: 1px solid #01366A;  
+    border-collapse: collapse;  
+  }  
+.Subfeedback  {
+  /*float:left !important;*/
+  float:right !important;
+  color:white !important;
+  text-decoration: none !important;
+  font-family:"Arial" !important;
+   font-size:19px !important;
+   border:none !important;
+   /*margin-top: 20px;*/
+    /*margin-bottom:20px;*/
+   margin-top:40px;
+   margin-bottom:40px;
+}
+.Subfeedback:active {  
+   background-color:#01366A !important;  
+   color:#939393 !important;  
+   background-color:gray !important;  
+}  
+.Subfeedback:hover {  
+  background-color:#01366A !important;    
+  color:#939393 !important;  
+}  
+
+.Smap {
+  float:right !important;
+  font-family:"Arial" !important;
+  color:white !important;
+  text-decoration:none !important;
+  font:Source Sans Pro !important;
+   font-size:19px !important;
+   border:none !important;
+   margin-top: 45px;
+    margin-bottom:40px;
+  }
+.Smap:active {  
+   background-color:#01366A !important;  
+   color:#939393 !important;  
+   background-color:gray !important;  
+}  
+.Smap:hover {  
+  background-color:#01366A !important;    
+  color:#939393 !important;  
+}  
+
+.Socialmediaicons  {
+  float:left !important;
+  text-decoration: none !important;
+   border:none !important;
+   margin-top: 40px;
+    margin-bottom:38px;
+    height:50px;
+    width:50px;
+}
